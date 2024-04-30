@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rishiselvakumaran98
-- 👀 I’m interested in Software Engineering and Database systems
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on some of your software projects
+- 👀 I primarily work on Software Engineering and Database systems, but I am interested in ML and Neural Networks
+- 💞️ I want to collaborate on some of your software projects, so HMU!!
 - 📫 How to reach me email me @ rishi.selvakumaran@gmail.com
 
 <!---
