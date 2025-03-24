@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishiselvakumaran98
-- 👀 I primarily work on Software Engineering and Database systems, but I am interested in ML and Neural Networks
-- 💞️ I want to collaborate on some of your software projects, so HMU!!
+- 👀 I am interested to work on ML and Neural Networks Applications including AI Visualization and ML in Healthcare.
+- 💞️ I want to collaborate on some of your software projects, so please HMU!!
 - 📫 How to reach me email me @ rishi.selvakumaran@gmail.com
 
 <!---
